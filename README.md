@@ -2,7 +2,7 @@
 
 Bu proje, Java Swing kullanılarak geliştirilmiş basit bir login form uygulamasıdır.
 
-![Uygulama Ekran Görüntüsü](./Ekran görüntüsü 2025-05-10 180744.png)
+![Uygulama Görseli](./goruntu.png)
 
 ## Özellikler
 
